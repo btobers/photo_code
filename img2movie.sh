@@ -1,7 +1,7 @@
 #!/bin/bash
 # script to go through a directory of photos/ maps, annotate timestamp, and make animation
 # (where the date and timestamp is obtained from EXIF data if available)
-# modified J. Amundson 4-November-2008
+# modified from J. Amundson 4-November-2008
 #
 # arguments:
 # $1 = image directory
